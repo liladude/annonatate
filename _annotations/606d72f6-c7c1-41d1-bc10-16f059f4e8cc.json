@@ -1,0 +1,5 @@
+---
+canvas: "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8454687p/canvas/f259"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "Macerie supra mosa(m)", "purpose": "identifying", "creator": {"id": "liladude", "name": "Elisa Bastianello"}, "created": "2021-04-14T17:31:00.944Z", "modified": "2021-04-14T17:31:23.619Z"}], "target": {"source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8454687p/canvas/f259", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:502.2920837402344,2211.215576171875,377.2727355957031,117.272705078125"}, "dcterms:isPartOf": {"id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8454687p/manifest.json", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/606d72f6-c7c1-41d1-bc10-16f059f4e8cc.json"}
