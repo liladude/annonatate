@@ -1,0 +1,146 @@
+{
+	"@id": "http://172.16.100.111:3001/api/manifests/b9a82252-ee94-49ea-9dec-fd644e6d2009",
+	"label": "BnF. Département des Manuscrits. Latin 4802",
+	"attribution": "Bibliothèque nationale de France",
+	"license": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+	"logo": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+	"related": "https://gallica.bnf.fr/ark:/12148/btv1b8454687p",
+	"seeAlso": [
+		"http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b8454687p"
+	],
+	"description": "Claudius Ptolomaeus , Cosmographia , Jacobus Angelus interpres. Detail of \"Macerie supra Mosa(m)\" cartographer birthplace.",
+	"metadata": [
+		{
+			"label": "Repository",
+			"value": ""
+		},
+		{
+			"label": "Digitised by",
+			"value": "Bibliothèque nationale de France"
+		},
+		{
+			"label": "Source Images",
+			"value": "https://gallica.bnf.fr/ark:/12148/btv1b8454687p"
+		},
+		{
+			"label": "Metadata Source",
+			"value": "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b8454687p"
+		},
+		{
+			"label": "Shelfmark",
+			"value": "Bibliothèque nationale de France. Département des Manuscrits. Latin 4802"
+		},
+		{
+			"label": "Title",
+			"value": "Claudius Ptolomaeus , Cosmographia , Jacobus Angelus interpres."
+		},
+		{
+			"label": "Date",
+			"value": "1451-1500"
+		},
+		{
+			"label": "Language",
+			"value": "latino"
+		},
+		{
+			"label": "Format",
+			"value": "Florence. - Ecriture humanistique italienne, main d'Hugues Commineau. - . Page frontispice : \"In hoc ornatissimo codice continetur cosmographia Ptolemaei Alexandrini de situ orbis terrarum ex graeco in latinum per Iacobum Angelum Florentinum traducta\" ( 2 ) ; deux lettres historiées : le traducteur présentant son œuvre au pape ( 2 ), Ptolémée au travail ( 3 ) ; encadrement peint avec portrait de Ptolémée aux armes d’Alphonse de Calabre, surmonté de la couronne portée par deux putti et aux emblèmes des rois aragonais de Naples (livre ouvert, trône ardent, mont de diamants etc...) ( 3 ) ; encadrements peints ( 14, 26, 46v, 57v, 72 ) ; initiales d’or sur fonds peints ; rubriques à l’encre d’or, rouge et bleue ; titres courants bleus ; schémas à l’encre rouge. Série des cartes anciennes, comprenant la carte du monde et 26 cartes régionales. Série de 7 cartes modernes et 10 plans de villes. Cartes peintes. - Parch. - 137 ff. parchemin à 2 colonnes foliotés de 1 à 136 + f. 74bis. Composition des cahiers : 17 cahiers signés d’une main française contemporaine de la reliure (milieu XVIe s.) : cahier 1 de 2 ff. signé A2 ( A et 1 ), cahiers 2-8 de 10 ff. signés B5 ( 2-11 ), C5 ( 12-21 ), D5 ( 22-31 ), E5 ( 32-41 ), F5 ( 42-51 ), G5 ( 52-61 ), H5 ( 62-71 ), cahiers 9-10 de 2 ff. signés I2 ( 72-73 ), K2 ( 74-74bis ), cahiers 11-16 de 10 ff. signés L5 ( 75-84 ), M5 ( 85-94 ), N5 ( 95-104 ), O5 ( 105-114 ), P5 ( 115-124 ), Q5 ( 125-134 ), cahier 17 de 2 ff. signé R2 ( 135-136 ). - Réclames ( 11v, 21v, 31v, 41v, 51v, 61v, 71v ). Ff. A-Av, 1, 73-74, 74bis-75, 123v-124, 136v blancs. - Atlas. 610 x 450 mm. - Reliure maroquin noir avec médaillons citron aux armes de Henri II , à décor doré et argenté d’entrelacs rehaussés de peinture (atelier de Fontainebleau, vers 1552) ; tranches dorées et ciselées. - Estampille de la Bibliothèque royale (Ancien régime, à partir du XVIIe s.), modèle identique à Josserand-Bruno, p. 264-265, type A n° 1"
+		},
+		{
+			"label": "Creator",
+			"value": [
+				{
+					"@value": "Claudius Ptolomaeus. Auteur du texte"
+				},
+				{
+					"@value": "Jacobus Angelus. Traducteur"
+				}
+			]
+		},
+		{
+			"label": "Relation",
+			"value": "Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc63677b"
+		},
+		{
+			"label": "Type",
+			"value": "Manoscritto"
+		},
+		{
+			"label": "Place",
+			"value": "Lieu de copie : Florence"
+		}
+	],
+	"sequences": [
+		{
+			"canvases": [
+				{
+					"@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8454687p/canvas/f258",
+					"label": "125v",
+					"height": 7730,
+					"width": 5582,
+					"images": [
+						{
+							"motivation": "sc:painting",
+							"on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8454687p/canvas/f258",
+							"resource": {
+								"format": "image/jpeg",
+								"service": {
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+									"@context": "http://iiif.io/api/image/1/context.json",
+									"@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8454687p/f258"
+								},
+								"height": 7730,
+								"width": 5582,
+								"@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8454687p/f258/full/full/0/native.jpg",
+								"@type": "dctypes:Image"
+							},
+							"@type": "oa:Annotation"
+						}
+					],
+					"thumbnail": {
+						"@id": "https://gallica.bnf.fr/ark:/12148/btv1b8454687p/f258.thumbnail"
+					},
+					"@type": "sc:Canvas"
+				},
+				{
+					"@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8454687p/canvas/f259",
+					"label": "126r",
+					"height": 7777,
+					"width": 5704,
+					"images": [
+						{
+							"motivation": "sc:painting",
+							"on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8454687p/canvas/f259",
+							"resource": {
+								"format": "image/jpeg",
+								"service": {
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+									"@context": "http://iiif.io/api/image/1/context.json",
+									"@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8454687p/f259"
+								},
+								"height": 7777,
+								"width": 5704,
+								"@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8454687p/f259/full/full/0/native.jpg",
+								"@type": "dctypes:Image"
+							},
+							"@type": "oa:Annotation"
+						}
+					],
+					"thumbnail": {
+						"@id": "https://gallica.bnf.fr/ark:/12148/btv1b8454687p/f259.thumbnail"
+					},
+					"@type": "sc:Canvas",
+					"metadata": []
+				}
+			],
+			"label": "Current Page Order",
+			"@type": "sc:Sequence",
+			"@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8454687p/sequence/default"
+		}
+	],
+	"thumbnail": {
+		"@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8454687p/canvas/f259"
+	},
+	"@type": "sc:Manifest",
+	"@context": "http://iiif.io/api/presentation/2/context.json"
+}
