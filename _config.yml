@@ -8,3 +8,6 @@ collections:
   customviews:
     output: true
     peramlink: /customviews/:name
+  manifests:
+    output: true
+    permalink: /manifests/:name
