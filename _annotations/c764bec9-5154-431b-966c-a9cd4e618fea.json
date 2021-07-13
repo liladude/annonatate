@@ -1,0 +1,33 @@
+---
+canvas: "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512289f/canvas/f15"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Library stamp",
+            "purpose": "commenting",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2021-07-13T09:52:41.087Z",
+            "modified": "2021-07-13T09:52:47.143Z"
+        }
+    ],
+    "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512289f/canvas/f15",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1592.359619140625,1608.12841796875 1531.2509765625,1765.2647705078125 1592.359619140625,1922.401123046875 1749.4959716796875,2027.15869140625 2028.8494873046875,1948.590576171875 2098.68798828125,1747.80517578125 1906.63232421875,1599.398681640625 1906.63232421875,1608.12841796875\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512289f/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/c764bec9-5154-431b-966c-a9cd4e618fea.json"
+}
