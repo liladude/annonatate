@@ -1,0 +1,4382 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://liladude.github.io/manifest",
+    "@type": "sc:Manifest",
+    "label": "Notizheft 14",
+    "license": "https://creativecommons.org/publicdomain/mark/1.0//deed.it",
+    "seeAlso":
+    {
+        "format": "application/xml",
+        "@id": "https://www.e-manuscripta.ch/bau/oai?verb=GetRecord&metadataPrefix=mets&identifier=2453277",
+        "label": "METS"
+    },
+    "metadata": [
+    {
+        "value": "14 (Herbst 1886 - Herbst 1887) Notizheft 14 / Heinrich W\u00f6lfflin",
+        "label": "Titolo"
+    },
+    {
+        "value": "W\u00f6lfflin, Heinrich [1864-1945]",
+        "label": "Autore, collaboratori"
+    },
+    {
+        "value": "Rom ; Basel, Herbst 1886 - Herbst 1887",
+        "label": "Luogo di origine e datazione"
+    },
+    {
+        "value": "Heft (196 Seiten) ; 23 x 18 cm + 12 Beilagen",
+        "label": "Descrizione fisica"
+    },
+    {
+        "value": "Tedesco",
+        "label": "Lingua"
+    },
+    {
+        "value": "Universit\u00e4tsbibliothek Basel, NL 95 : Nachtrag 1973, I:1:a:14",
+        "label": "Luogo di conservazione"
+    },
+    {
+        "value": "http://doi.org/10.7891/e-manuscripta-86749",
+        "label": "Link permanente"
+    },
+    {
+        "value": "Nachlass Heinrich W\u00f6lfflin (1864-1945) / Nachtrag 1973 / Biographisches / Notizb\u00fccher / Notizb\u00fccher (Originale)",
+        "label": "Livello superiore"
+    },
+    {
+        "value": "Nachlass Heinrich W\u00f6lfflin (1864-1945)",
+        "label": "Tutto i documenti digitalizzati di questo fondo"
+    }],
+    "thumbnail":
+    {
+        "@id": "https://www.e-manuscripta.ch/bau/i3f/v21/2453503/full/304/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 359,
+        "width": 304
+    },
+    "rendering":
+    {
+        "format": "application/pdf",
+        "size": 20102687,
+        "@id": "https://www.e-manuscripta.ch/bau/download/pdf/2453277",
+        "label": "Notizheft 14"
+    },
+    "logo":
+    {
+        "@id": "https://www.e-manuscripta.ch/bau//domainresource/static/graphics/connectors/viewerLogo.gif",
+        "service":
+        {
+            "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "http://www.ub.unibas.ch"
+        }
+    },
+    "viewingHint": "paged",
+    "navDate": "1856-01-01T00:00:00Z",
+    "sequences": [
+    {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/sequence/normal",
+        "@type": "sc:Sequence",
+        "label": "Current Page Order",
+        "viewingDirection": "left-to-right",
+        "viewingHint": "paged",
+        "startCanvas": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453503",
+        "canvases": [
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453503",
+            "@type": "sc:Canvas",
+            "label": "2453503",
+            "width": 2511,
+            "height": 2971,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453503",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453503",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453503",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1183,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453503"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453507",
+            "@type": "sc:Canvas",
+            "label": "2453507",
+            "width": 2435,
+            "height": 2951,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453507",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453507",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453507",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1211,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453507"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453278",
+            "@type": "sc:Canvas",
+            "label": "2453278",
+            "width": 2299,
+            "height": 2845,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453278",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453278",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453278",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1237,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453278"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453279",
+            "@type": "sc:Canvas",
+            "label": "2453279",
+            "width": 2240,
+            "height": 2830,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453279",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453279",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453279",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1263,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453279"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453280",
+            "@type": "sc:Canvas",
+            "label": "2453280",
+            "width": 2287,
+            "height": 2849,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453280",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453280",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453280",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1245,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453280"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453281",
+            "@type": "sc:Canvas",
+            "label": "2453281",
+            "width": 2257,
+            "height": 2833,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453281",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453281",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453281",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1255,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453281"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453282",
+            "@type": "sc:Canvas",
+            "label": "2453282",
+            "width": 2271,
+            "height": 2852,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453282",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453282",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453282",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1255,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453282"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453283",
+            "@type": "sc:Canvas",
+            "label": "2453283",
+            "width": 2243,
+            "height": 2836,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453283",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453283",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453283",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1264,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453283"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453284",
+            "@type": "sc:Canvas",
+            "label": "2453284",
+            "width": 2279,
+            "height": 2858,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453284",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453284",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453284",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1254,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453284"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453285",
+            "@type": "sc:Canvas",
+            "label": "2453285",
+            "width": 2292,
+            "height": 2840,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453285",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453285",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453285",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1239,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453285"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453286",
+            "@type": "sc:Canvas",
+            "label": "2453286",
+            "width": 2270,
+            "height": 2852,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453286",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453286",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453286",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1256,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453286"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453287",
+            "@type": "sc:Canvas",
+            "label": "2453287",
+            "width": 2266,
+            "height": 2844,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453287",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453287",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453287",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1255,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453287"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453288",
+            "@type": "sc:Canvas",
+            "label": "2453288",
+            "width": 2259,
+            "height": 2850,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453288",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453288",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453288",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1261,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453288"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453289",
+            "@type": "sc:Canvas",
+            "label": "2453289",
+            "width": 2265,
+            "height": 2846,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453289",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453289",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453289",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1256,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453289"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453290",
+            "@type": "sc:Canvas",
+            "label": "2453290",
+            "width": 2262,
+            "height": 2849,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453290",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453290",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453290",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1259,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453290"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453291",
+            "@type": "sc:Canvas",
+            "label": "2453291",
+            "width": 2268,
+            "height": 2844,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453291",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453291",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453291",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1253,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453291"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453292",
+            "@type": "sc:Canvas",
+            "label": "2453292",
+            "width": 2265,
+            "height": 2848,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453292",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453292",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453292",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1257,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453292"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453293",
+            "@type": "sc:Canvas",
+            "label": "2453293",
+            "width": 2285,
+            "height": 2851,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453293",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453293",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453293",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1247,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453293"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453294",
+            "@type": "sc:Canvas",
+            "label": "2453294",
+            "width": 2301,
+            "height": 2853,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453294",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453294",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453294",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1239,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453294"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453295",
+            "@type": "sc:Canvas",
+            "label": "2453295",
+            "width": 2270,
+            "height": 2842,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453295",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453295",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453295",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1251,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453295"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453296",
+            "@type": "sc:Canvas",
+            "label": "2453296",
+            "width": 2275,
+            "height": 2841,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453296",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453296",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453296",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1248,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453296"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453297",
+            "@type": "sc:Canvas",
+            "label": "2453297",
+            "width": 2258,
+            "height": 2838,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453297",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453297",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453297",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1256,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453297"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453298",
+            "@type": "sc:Canvas",
+            "label": "2453298",
+            "width": 2262,
+            "height": 2842,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453298",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453298",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453298",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1256,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453298"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453299",
+            "@type": "sc:Canvas",
+            "label": "2453299",
+            "width": 2259,
+            "height": 2839,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453299",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453299",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453299",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1256,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453299"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453300",
+            "@type": "sc:Canvas",
+            "label": "2453300",
+            "width": 2267,
+            "height": 2841,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453300",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453300",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453300",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1253,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453300"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453301",
+            "@type": "sc:Canvas",
+            "label": "2453301",
+            "width": 2262,
+            "height": 2841,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453301",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453301",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453301",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1255,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453301"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453302",
+            "@type": "sc:Canvas",
+            "label": "2453302",
+            "width": 2270,
+            "height": 2843,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453302",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453302",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453302",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1252,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453302"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453303",
+            "@type": "sc:Canvas",
+            "label": "2453303",
+            "width": 2278,
+            "height": 2841,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453303",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453303",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453303",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1247,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453303"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453304",
+            "@type": "sc:Canvas",
+            "label": "2453304",
+            "width": 2264,
+            "height": 2846,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453304",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453304",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453304",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1257,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453304"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453305",
+            "@type": "sc:Canvas",
+            "label": "2453305",
+            "width": 2274,
+            "height": 2840,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453305",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453305",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453305",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1248,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453305"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453306",
+            "@type": "sc:Canvas",
+            "label": "2453306",
+            "width": 2259,
+            "height": 2844,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453306",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453306",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453306",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1258,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453306"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453307",
+            "@type": "sc:Canvas",
+            "label": "2453307",
+            "width": 2269,
+            "height": 2841,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453307",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453307",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453307",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1252,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453307"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453308",
+            "@type": "sc:Canvas",
+            "label": "2453308",
+            "width": 2252,
+            "height": 2844,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453308",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453308",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453308",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1262,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453308"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453309",
+            "@type": "sc:Canvas",
+            "label": "2453309",
+            "width": 2286,
+            "height": 2846,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453309",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453309",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453309",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1244,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453309"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453310",
+            "@type": "sc:Canvas",
+            "label": "2453310",
+            "width": 2260,
+            "height": 2846,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453310",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453310",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453310",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1259,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453310"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453311",
+            "@type": "sc:Canvas",
+            "label": "2453311",
+            "width": 2278,
+            "height": 2843,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453311",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453311",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453311",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1248,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453311"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453312",
+            "@type": "sc:Canvas",
+            "label": "2453312",
+            "width": 2237,
+            "height": 2844,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453312",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453312",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453312",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1271,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453312"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453313",
+            "@type": "sc:Canvas",
+            "label": "2453313",
+            "width": 2268,
+            "height": 2841,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453313",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453313",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453313",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1252,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453313"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453314",
+            "@type": "sc:Canvas",
+            "label": "2453314",
+            "width": 2249,
+            "height": 2847,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453314",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453314",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453314",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1265,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453314"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453315",
+            "@type": "sc:Canvas",
+            "label": "2453315",
+            "width": 2255,
+            "height": 2841,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453315",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453315",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453315",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1259,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453315"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453316",
+            "@type": "sc:Canvas",
+            "label": "2453316",
+            "width": 2269,
+            "height": 2845,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453316",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453316",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453316",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1253,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453316"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453317",
+            "@type": "sc:Canvas",
+            "label": "2453317",
+            "width": 2264,
+            "height": 2842,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453317",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453317",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453317",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1255,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453317"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453318",
+            "@type": "sc:Canvas",
+            "label": "2453318",
+            "width": 2278,
+            "height": 2843,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453318",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453318",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453318",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1248,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453318"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453319",
+            "@type": "sc:Canvas",
+            "label": "2453319",
+            "width": 2263,
+            "height": 2848,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453319",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453319",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453319",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1258,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453319"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453320",
+            "@type": "sc:Canvas",
+            "label": "2453320",
+            "width": 2270,
+            "height": 2845,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453320",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453320",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453320",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1253,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453320"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453321",
+            "@type": "sc:Canvas",
+            "label": "2453321",
+            "width": 2259,
+            "height": 2845,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453321",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453321",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453321",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1259,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453321"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453322",
+            "@type": "sc:Canvas",
+            "label": "2453322",
+            "width": 2262,
+            "height": 2845,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453322",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453322",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453322",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1257,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453322"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453323",
+            "@type": "sc:Canvas",
+            "label": "2453323",
+            "width": 2267,
+            "height": 2845,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453323",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453323",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453323",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1254,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453323"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453324",
+            "@type": "sc:Canvas",
+            "label": "2453324",
+            "width": 2257,
+            "height": 2818,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453324",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453324",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453324",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1248,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453324"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453325",
+            "@type": "sc:Canvas",
+            "label": "2453325",
+            "width": 2279,
+            "height": 2845,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453325",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453325",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453325",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1248,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453325"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453326",
+            "@type": "sc:Canvas",
+            "label": "2453326",
+            "width": 2269,
+            "height": 2844,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453326",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453326",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453326",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1253,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453326"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453327",
+            "@type": "sc:Canvas",
+            "label": "2453327",
+            "width": 2257,
+            "height": 2840,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453327",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453327",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453327",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1258,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453327"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453328",
+            "@type": "sc:Canvas",
+            "label": "2453328",
+            "width": 2263,
+            "height": 2841,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453328",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453328",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453328",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1255,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453328"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453329",
+            "@type": "sc:Canvas",
+            "label": "2453329",
+            "width": 2243,
+            "height": 2807,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453329",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453329",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453329",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1251,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453329"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453330",
+            "@type": "sc:Canvas",
+            "label": "2453330",
+            "width": 2256,
+            "height": 2811,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453330",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453330",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453330",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1246,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453330"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453331",
+            "@type": "sc:Canvas",
+            "label": "2453331",
+            "width": 2234,
+            "height": 2820,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453331",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453331",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453331",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1262,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453331"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453332",
+            "@type": "sc:Canvas",
+            "label": "2453332",
+            "width": 2263,
+            "height": 2815,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453332",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453332",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453332",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1243,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453332"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453333",
+            "@type": "sc:Canvas",
+            "label": "2453333",
+            "width": 2238,
+            "height": 2811,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453333",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453333",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453333",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1256,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453333"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453334",
+            "@type": "sc:Canvas",
+            "label": "2453334",
+            "width": 2266,
+            "height": 2836,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453334",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453334",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453334",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1251,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453334"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453335",
+            "@type": "sc:Canvas",
+            "label": "2453335",
+            "width": 2247,
+            "height": 2807,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453335",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453335",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453335",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1249,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453335"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453336",
+            "@type": "sc:Canvas",
+            "label": "2453336",
+            "width": 2278,
+            "height": 2821,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453336",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453336",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453336",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1238,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453336"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453337",
+            "@type": "sc:Canvas",
+            "label": "2453337",
+            "width": 2264,
+            "height": 2821,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453337",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453337",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453337",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1246,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453337"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453338",
+            "@type": "sc:Canvas",
+            "label": "2453338",
+            "width": 2275,
+            "height": 2821,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453338",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453338",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453338",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1240,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453338"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453339",
+            "@type": "sc:Canvas",
+            "label": "2453339",
+            "width": 2245,
+            "height": 2831,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453339",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453339",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453339",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1261,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453339"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453340",
+            "@type": "sc:Canvas",
+            "label": "2453340",
+            "width": 2282,
+            "height": 2842,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453340",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453340",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453340",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1245,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453340"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453341",
+            "@type": "sc:Canvas",
+            "label": "2453341",
+            "width": 2252,
+            "height": 2841,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453341",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453341",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453341",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1261,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453341"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453342",
+            "@type": "sc:Canvas",
+            "label": "2453342",
+            "width": 2269,
+            "height": 2843,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453342",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453342",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453342",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1252,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453342"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453343",
+            "@type": "sc:Canvas",
+            "label": "2453343",
+            "width": 2260,
+            "height": 2840,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453343",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453343",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453343",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1256,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453343"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453344",
+            "@type": "sc:Canvas",
+            "label": "2453344",
+            "width": 2279,
+            "height": 2845,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453344",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453344",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453344",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1248,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453344"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453345",
+            "@type": "sc:Canvas",
+            "label": "2453345",
+            "width": 2258,
+            "height": 2843,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453345",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453345",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453345",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1259,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453345"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453346",
+            "@type": "sc:Canvas",
+            "label": "2453346",
+            "width": 2261,
+            "height": 2844,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453346",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453346",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453346",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1257,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453346"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453347",
+            "@type": "sc:Canvas",
+            "label": "2453347",
+            "width": 2277,
+            "height": 2839,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453347",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453347",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453347",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1246,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453347"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453348",
+            "@type": "sc:Canvas",
+            "label": "2453348",
+            "width": 2273,
+            "height": 2844,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453348",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453348",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453348",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1251,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453348"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453349",
+            "@type": "sc:Canvas",
+            "label": "2453349",
+            "width": 2270,
+            "height": 2840,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453349",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453349",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453349",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1251,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453349"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453350",
+            "@type": "sc:Canvas",
+            "label": "2453350",
+            "width": 2273,
+            "height": 2844,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453350",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453350",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453350",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1251,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453350"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453351",
+            "@type": "sc:Canvas",
+            "label": "2453351",
+            "width": 2277,
+            "height": 2840,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453351",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453351",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453351",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1247,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453351"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453352",
+            "@type": "sc:Canvas",
+            "label": "2453352",
+            "width": 2273,
+            "height": 2846,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453352",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453352",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453352",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1252,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453352"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453353",
+            "@type": "sc:Canvas",
+            "label": "2453353",
+            "width": 2248,
+            "height": 2834,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453353",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453353",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453353",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1260,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453353"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453354",
+            "@type": "sc:Canvas",
+            "label": "2453354",
+            "width": 2259,
+            "height": 2838,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453354",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453354",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453354",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1256,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453354"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453355",
+            "@type": "sc:Canvas",
+            "label": "2453355",
+            "width": 2249,
+            "height": 2836,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453355",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453355",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453355",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1261,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453355"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453356",
+            "@type": "sc:Canvas",
+            "label": "2453356",
+            "width": 2277,
+            "height": 2837,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453356",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453356",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453356",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1245,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453356"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453357",
+            "@type": "sc:Canvas",
+            "label": "2453357",
+            "width": 2259,
+            "height": 2830,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453357",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453357",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453357",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1252,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453357"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453358",
+            "@type": "sc:Canvas",
+            "label": "2453358",
+            "width": 2268,
+            "height": 2833,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453358",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453358",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453358",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1249,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453358"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453359",
+            "@type": "sc:Canvas",
+            "label": "2453359",
+            "width": 2255,
+            "height": 2834,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453359",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453359",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453359",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1256,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453359"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453360",
+            "@type": "sc:Canvas",
+            "label": "2453360",
+            "width": 2277,
+            "height": 2835,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453360",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453360",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453360",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1245,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453360"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453361",
+            "@type": "sc:Canvas",
+            "label": "2453361",
+            "width": 2255,
+            "height": 2837,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453361",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453361",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453361",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1258,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453361"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453362",
+            "@type": "sc:Canvas",
+            "label": "2453362",
+            "width": 2276,
+            "height": 2843,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453362",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453362",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453362",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1249,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453362"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453363",
+            "@type": "sc:Canvas",
+            "label": "2453363",
+            "width": 2265,
+            "height": 2833,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453363",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453363",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453363",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1250,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453363"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453364",
+            "@type": "sc:Canvas",
+            "label": "2453364",
+            "width": 2269,
+            "height": 2838,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453364",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453364",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453364",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1250,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453364"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453365",
+            "@type": "sc:Canvas",
+            "label": "2453365",
+            "width": 2263,
+            "height": 2838,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453365",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453365",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453365",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1254,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453365"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453366",
+            "@type": "sc:Canvas",
+            "label": "2453366",
+            "width": 2266,
+            "height": 2844,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453366",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453366",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453366",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1255,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453366"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453367",
+            "@type": "sc:Canvas",
+            "label": "2453367",
+            "width": 2268,
+            "height": 2837,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453367",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453367",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453367",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1250,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453367"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453368",
+            "@type": "sc:Canvas",
+            "label": "2453368",
+            "width": 2269,
+            "height": 2842,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453368",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453368",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453368",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1252,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453368"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453369",
+            "@type": "sc:Canvas",
+            "label": "2453369",
+            "width": 2271,
+            "height": 2837,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453369",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453369",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453369",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1249,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453369"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453370",
+            "@type": "sc:Canvas",
+            "label": "2453370",
+            "width": 2270,
+            "height": 2841,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453370",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453370",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453370",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1251,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453370"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453371",
+            "@type": "sc:Canvas",
+            "label": "2453371",
+            "width": 2266,
+            "height": 2891,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453371",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453371",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453371",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1275,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453371"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453372",
+            "@type": "sc:Canvas",
+            "label": "2453372",
+            "width": 2265,
+            "height": 2894,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453372",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453372",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453372",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1277,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453372"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453373",
+            "@type": "sc:Canvas",
+            "label": "2453373",
+            "width": 2277,
+            "height": 2843,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453373",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453373",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453373",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1248,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453373"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453374",
+            "@type": "sc:Canvas",
+            "label": "2453374",
+            "width": 2291,
+            "height": 2840,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453374",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453374",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453374",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1239,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453374"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453375",
+            "@type": "sc:Canvas",
+            "label": "2453375",
+            "width": 2263,
+            "height": 2842,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453375",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453375",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453375",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1255,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453375"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453376",
+            "@type": "sc:Canvas",
+            "label": "2453376",
+            "width": 2269,
+            "height": 2843,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453376",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453376",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453376",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1252,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453376"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453377",
+            "@type": "sc:Canvas",
+            "label": "2453377",
+            "width": 2265,
+            "height": 2842,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453377",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453377",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453377",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1254,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453377"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453378",
+            "@type": "sc:Canvas",
+            "label": "2453378",
+            "width": 2268,
+            "height": 2840,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453378",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453378",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453378",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1252,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453378"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453379",
+            "@type": "sc:Canvas",
+            "label": "2453379",
+            "width": 2257,
+            "height": 2823,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453379",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453379",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453379",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1250,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453379"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453380",
+            "@type": "sc:Canvas",
+            "label": "2453380",
+            "width": 2258,
+            "height": 2826,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453380",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453380",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453380",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1251,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453380"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453381",
+            "@type": "sc:Canvas",
+            "label": "2453381",
+            "width": 2260,
+            "height": 2821,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453381",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453381",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453381",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1248,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453381"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453382",
+            "@type": "sc:Canvas",
+            "label": "2453382",
+            "width": 2261,
+            "height": 2820,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453382",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453382",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453382",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1247,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453382"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453383",
+            "@type": "sc:Canvas",
+            "label": "2453383",
+            "width": 2256,
+            "height": 2826,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453383",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453383",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453383",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1252,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453383"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453384",
+            "@type": "sc:Canvas",
+            "label": "2453384",
+            "width": 2255,
+            "height": 2822,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453384",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453384",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453384",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1251,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453384"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453385",
+            "@type": "sc:Canvas",
+            "label": "2453385",
+            "width": 2266,
+            "height": 2838,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453385",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453385",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453385",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1252,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453385"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453386",
+            "@type": "sc:Canvas",
+            "label": "2453386",
+            "width": 2250,
+            "height": 2840,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453386",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453386",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453386",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1262,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453386"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453387",
+            "@type": "sc:Canvas",
+            "label": "2453387",
+            "width": 2272,
+            "height": 2839,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453387",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453387",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453387",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1249,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453387"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453388",
+            "@type": "sc:Canvas",
+            "label": "2453388",
+            "width": 2253,
+            "height": 2841,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453388",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453388",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453388",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1260,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453388"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453389",
+            "@type": "sc:Canvas",
+            "label": "2453389",
+            "width": 2275,
+            "height": 2841,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453389",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453389",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453389",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1248,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453389"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453390",
+            "@type": "sc:Canvas",
+            "label": "2453390",
+            "width": 2254,
+            "height": 2841,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453390",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453390",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453390",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1260,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453390"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453391",
+            "@type": "sc:Canvas",
+            "label": "2453391",
+            "width": 2268,
+            "height": 2837,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453391",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453391",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453391",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1250,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453391"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453392",
+            "@type": "sc:Canvas",
+            "label": "2453392",
+            "width": 2260,
+            "height": 2840,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453392",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453392",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453392",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1256,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453392"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453393",
+            "@type": "sc:Canvas",
+            "label": "2453393",
+            "width": 2277,
+            "height": 2837,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453393",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453393",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453393",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1245,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453393"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453394",
+            "@type": "sc:Canvas",
+            "label": "2453394",
+            "width": 2291,
+            "height": 2828,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453394",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453394",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453394",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1234,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453394"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453395",
+            "@type": "sc:Canvas",
+            "label": "2453395",
+            "width": 2261,
+            "height": 2836,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453395",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453395",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453395",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1254,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453395"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453396",
+            "@type": "sc:Canvas",
+            "label": "2453396",
+            "width": 2271,
+            "height": 2842,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453396",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453396",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453396",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1251,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453396"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453397",
+            "@type": "sc:Canvas",
+            "label": "2453397",
+            "width": 2253,
+            "height": 2825,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453397",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453397",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453397",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1253,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453397"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453398",
+            "@type": "sc:Canvas",
+            "label": "2453398",
+            "width": 2269,
+            "height": 2828,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453398",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453398",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453398",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1246,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453398"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453399",
+            "@type": "sc:Canvas",
+            "label": "2453399",
+            "width": 2254,
+            "height": 2838,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453399",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453399",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453399",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1259,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453399"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453400",
+            "@type": "sc:Canvas",
+            "label": "2453400",
+            "width": 2249,
+            "height": 2841,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453400",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453400",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453400",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1263,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453400"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453401",
+            "@type": "sc:Canvas",
+            "label": "2453401",
+            "width": 2254,
+            "height": 2839,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453401",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453401",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453401",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1259,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453401"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453402",
+            "@type": "sc:Canvas",
+            "label": "2453402",
+            "width": 2271,
+            "height": 2832,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453402",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453402",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453402",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1247,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453402"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453403",
+            "@type": "sc:Canvas",
+            "label": "2453403",
+            "width": 2255,
+            "height": 2835,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453403",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453403",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453403",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1257,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453403"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453404",
+            "@type": "sc:Canvas",
+            "label": "2453404",
+            "width": 2273,
+            "height": 2828,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453404",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453404",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453404",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1244,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453404"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453405",
+            "@type": "sc:Canvas",
+            "label": "2453405",
+            "width": 2265,
+            "height": 2832,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453405",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453405",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453405",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1250,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453405"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453406",
+            "@type": "sc:Canvas",
+            "label": "2453406",
+            "width": 2260,
+            "height": 2830,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453406",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453406",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453406",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1252,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453406"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453407",
+            "@type": "sc:Canvas",
+            "label": "2453407",
+            "width": 2267,
+            "height": 2844,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453407",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453407",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453407",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1254,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453407"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453408",
+            "@type": "sc:Canvas",
+            "label": "2453408",
+            "width": 2258,
+            "height": 2839,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453408",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453408",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453408",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1257,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453408"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453409",
+            "@type": "sc:Canvas",
+            "label": "2453409",
+            "width": 2274,
+            "height": 2843,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453409",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453409",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453409",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1250,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453409"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453410",
+            "@type": "sc:Canvas",
+            "label": "2453410",
+            "width": 2255,
+            "height": 2846,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453410",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453410",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453410",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1262,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453410"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453411",
+            "@type": "sc:Canvas",
+            "label": "2453411",
+            "width": 2281,
+            "height": 2838,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453411",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453411",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453411",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1244,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453411"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453412",
+            "@type": "sc:Canvas",
+            "label": "2453412",
+            "width": 2262,
+            "height": 2840,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453412",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453412",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453412",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1255,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453412"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453413",
+            "@type": "sc:Canvas",
+            "label": "2453413",
+            "width": 2295,
+            "height": 2843,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453413",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453413",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453413",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1238,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453413"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453414",
+            "@type": "sc:Canvas",
+            "label": "2453414",
+            "width": 2259,
+            "height": 2850,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453414",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453414",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453414",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1261,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453414"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453415",
+            "@type": "sc:Canvas",
+            "label": "2453415",
+            "width": 2238,
+            "height": 2843,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453415",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453415",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453415",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1270,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453415"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453416",
+            "@type": "sc:Canvas",
+            "label": "2453416",
+            "width": 2271,
+            "height": 2834,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453416",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453416",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453416",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1247,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453416"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453417",
+            "@type": "sc:Canvas",
+            "label": "2453417",
+            "width": 2258,
+            "height": 2845,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453417",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453417",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453417",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1259,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453417"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453418",
+            "@type": "sc:Canvas",
+            "label": "2453418",
+            "width": 2262,
+            "height": 2845,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453418",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453418",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453418",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1257,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453418"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453419",
+            "@type": "sc:Canvas",
+            "label": "2453419",
+            "width": 2259,
+            "height": 2848,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453419",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453419",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453419",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1260,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453419"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453420",
+            "@type": "sc:Canvas",
+            "label": "2453420",
+            "width": 2279,
+            "height": 2855,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453420",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453420",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453420",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1252,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453420"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453421",
+            "@type": "sc:Canvas",
+            "label": "2453421",
+            "width": 2257,
+            "height": 2837,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453421",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453421",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453421",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1256,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453421"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453422",
+            "@type": "sc:Canvas",
+            "label": "2453422",
+            "width": 2266,
+            "height": 2840,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453422",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453422",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453422",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1253,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453422"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453423",
+            "@type": "sc:Canvas",
+            "label": "2453423",
+            "width": 2255,
+            "height": 2838,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453423",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453423",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453423",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1258,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453423"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453424",
+            "@type": "sc:Canvas",
+            "label": "2453424",
+            "width": 2262,
+            "height": 2840,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453424",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453424",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453424",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1255,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453424"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453425",
+            "@type": "sc:Canvas",
+            "label": "2453425",
+            "width": 2272,
+            "height": 2843,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453425",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453425",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453425",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1251,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453425"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453426",
+            "@type": "sc:Canvas",
+            "label": "2453426",
+            "width": 2257,
+            "height": 2845,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453426",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453426",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453426",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1260,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453426"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453427",
+            "@type": "sc:Canvas",
+            "label": "2453427",
+            "width": 2279,
+            "height": 2840,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453427",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453427",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453427",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1246,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453427"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453428",
+            "@type": "sc:Canvas",
+            "label": "2453428",
+            "width": 2255,
+            "height": 2842,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453428",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "on": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453428",
+                "resource":
+                {
+                    "@id": "https://www.e-manuscripta.ch/bau/download/webcache/1000/2453428",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "height": 1260,
+                    "width": 1000,
+                    "service":
+                    {
+                        "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453428"
+                    }
+                }
+            }]
+        },
+        {
+            "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/canvas/2453429",
+            "@type": "sc:Canvas",
+            "label": "2453429",
+            "width": 2283,
+            "height": 2839,
+            "images": [
+            {
+                "@id": "https://www.e-manuscripta.ch/bau/i3f/v20/2453277/annotation/2453429",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+    
