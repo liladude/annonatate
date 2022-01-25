@@ -1,0 +1,40 @@
+---
+canvas: "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json"
+order: 8
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Campanile di San Marco ",
+            "purpose": "classifying",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-01-25T08:30:49.239Z",
+            "modified": "2022-01-25T08:30:57.826Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "work",
+            "purpose": "tagging",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-01-25T08:31:03.158Z",
+            "modified": "2022-01-25T08:31:04.078Z"
+        }
+    ],
+    "target": {
+        "source": "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"13688.94140625,9496.236328125 13667.8876953125,9534.1318359375 13419.4609375,9524.306640625 13412.443359375,8651.3046875 13429.2861328125,8633.05859375 13432.0927734375,8569.8994140625 13530.3408203125,8547.443359375 13655.255859375,8568.49609375 13653.8525390625,8630.251953125 13667.8876953125,8645.69140625 13669.2919921875,8663.9365234375\"></polygon></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3affd44f-50f1-4b00-a5d0-aa371a9d779c.json"
+}
