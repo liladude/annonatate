@@ -17,15 +17,26 @@ order: 1
             "value": "Vesuvio"
         },
         {
+            "created": "2022-01-25T10:17:43.148Z",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "modified": "2022-01-25T10:17:44.661Z",
+            "purpose": "tagging",
             "type": "TextualBody",
-            "value": "engraving",
+            "value": "engraving"
+        },
+        {
+            "type": "TextualBody",
+            "value": "monte",
             "purpose": "tagging",
             "creator": {
                 "id": "liladude",
                 "name": "Elisa Bastianello"
             },
-            "created": "2022-01-25T10:17:43.148Z",
-            "modified": "2022-01-25T10:17:44.661Z"
+            "created": "2022-01-25T10:36:53.686Z",
+            "modified": "2022-01-25T10:36:54.396Z"
         }
     ],
     "id": "70c8cbf5-d16d-4dcf-a9ea-8761619475ad.json",
