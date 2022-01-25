@@ -1,0 +1,44 @@
+---
+canvas: "https://dlib2.biblhertz.it/iiif/3/be34303760/canvas/p0151"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "XIX ",
+            "purpose": "classifying",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-01-25T10:43:04.352Z",
+            "modified": "2022-01-25T10:43:14.652Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "image",
+            "purpose": "tagging",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-01-25T10:43:18.741Z",
+            "modified": "2022-01-25T10:43:19.885Z"
+        }
+    ],
+    "target": {
+        "source": "https://dlib2.biblhertz.it/iiif/3/be34303760/canvas/p0151",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"463.0185241699219,771.797607421875 3812.558349609375,824.368896484375 3726.190673828125,6998.69384765625 400.68377685546875,6926.59619140625 400.68377685546875,6924.20263671875\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dlib.biblhertz.it/iiif/be34303760/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "14fd506b-515d-4131-9b42-bfdba3a91f2f.json"
+}
