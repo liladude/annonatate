@@ -1,0 +1,40 @@
+---
+canvas: "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json"
+order: 6
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Colonna di San Teodoro (Todaro)",
+            "purpose": "classifying",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-01-25T08:29:01.129Z",
+            "modified": "2022-01-25T08:29:14.154Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "work",
+            "purpose": "tagging",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-01-25T08:29:17.663Z",
+            "modified": "2022-01-25T08:29:18.576Z"
+        }
+    ],
+    "target": {
+        "source": "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"13757.28515625,9836.5146484375 13798.0302734375,9859.7978515625 13841.685546875,9853.9775390625 13838.775390625,9836.5146484375 13818.40234375,9821.962890625 13815.4921875,9562.939453125 13844.595703125,9533.8359375 13821.3134765625,9519.283203125 13818.40234375,9469.806640625 13786.388671875,9472.7177734375 13792.208984375,9510.552734375 13774.7470703125,9530.9248046875 13789.298828125,9548.3876953125 13792.208984375,9816.142578125 13774.7470703125,9824.8740234375\"></polygon></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9739527d-0edd-4736-8136-a727df39bed9.json"
+}
