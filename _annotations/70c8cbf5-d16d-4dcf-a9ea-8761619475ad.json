@@ -3,32 +3,43 @@ canvas: "https://dlib2.biblhertz.it/iiif/3/be40152323/canvas/p0016"
 order: 1
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "Vesuvio",
-            "purpose": "commenting",
+            "created": "2022-01-25T10:12:48.933Z",
             "creator": {
                 "id": "liladude",
                 "name": "Elisa Bastianello"
             },
-            "created": "2022-01-25T10:12:48.933Z",
-            "modified": "2022-01-25T10:12:50.957Z"
+            "modified": "2022-01-25T10:12:50.957Z",
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "Vesuvio"
+        },
+        {
+            "type": "TextualBody",
+            "value": "engraving",
+            "purpose": "tagging",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-01-25T10:17:43.148Z",
+            "modified": "2022-01-25T10:17:44.661Z"
         }
     ],
+    "id": "70c8cbf5-d16d-4dcf-a9ea-8761619475ad.json",
     "target": {
-        "source": "https://dlib2.biblhertz.it/iiif/3/be40152323/canvas/p0016",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:533.3405151367188,356.299072265625,2386.0725708007812,3427.267822265625"
-        },
         "dcterms:isPartOf": {
             "id": "https://dlib.biblhertz.it/iiif/be40152323/manifest.json",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=pixel:533.3405151367188,356.299072265625,2386.0725708007812,3427.267822265625"
+        },
+        "source": "https://dlib2.biblhertz.it/iiif/3/be40152323/canvas/p0016"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "70c8cbf5-d16d-4dcf-a9ea-8761619475ad.json"
+    "type": "Annotation"
 }
