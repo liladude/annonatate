@@ -1,0 +1,40 @@
+---
+canvas: "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Magazzini del grano",
+            "purpose": "classifying",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-01-25T08:25:22.875Z",
+            "modified": "2022-01-25T08:25:41.356Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "work",
+            "purpose": "tagging",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-01-25T08:25:35.671Z",
+            "modified": "2022-01-25T08:25:36.415Z"
+        }
+    ],
+    "target": {
+        "source": "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"11672.3505859375,9892.4775390625 12791.673828125,9864.4072265625 12848.9853515625,9666.7412109375 12847.8154296875,9492.46875 11740.1884765625,9493.638671875 11666.5029296875,9609.4306640625\"></polygon></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d5316eb5-30fb-43b7-b674-e044b7ae5f4f.json"
+}
