@@ -1,0 +1,40 @@
+---
+canvas: "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json"
+order: 4
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Palazzo Ducale",
+            "purpose": "classifying",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-01-25T08:26:42.384Z",
+            "modified": "2022-01-25T08:26:50.039Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "work",
+            "purpose": "tagging",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-01-25T08:26:52.767Z",
+            "modified": "2022-01-25T08:26:53.483Z"
+        }
+    ],
+    "target": {
+        "source": "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"14437.1923828125,9816.0986328125 15253.5849609375,9827.794921875 15260.6025390625,9323.689453125 15144.810546875,9069.8828125 15054.75,9078.0703125 15085.16015625,9168.130859375 15091.0078125,9178.6572265625 14868.78125,9189.18359375 14873.458984375,9247.6650390625 14672.28515625,9258.19140625 14643.044921875,9179.8271484375 14406.7822265625,9188.0146484375 14400.9345703125,9604.3974609375 14400.9345703125,9607.90625\"></polygon></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d3e4721a-d32b-41b7-9259-dc705962ffb4.json"
+}
