@@ -1,0 +1,40 @@
+---
+canvas: "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json"
+order: 5
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Procuratie vecchie e ala",
+            "purpose": "classifying",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-01-25T08:28:05.652Z",
+            "modified": "2022-01-25T08:28:19.539Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Work",
+            "purpose": "tagging",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-01-25T08:28:23.457Z",
+            "modified": "2022-01-25T08:28:24.383Z"
+        }
+    ],
+    "target": {
+        "source": "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"13806.7607421875,9248.6181640625 12174.037109375,9266.080078125 12110.0087890625,9373.7646484375 12092.546875,9204.962890625 12048.8916015625,9158.396484375 12098.3671875,9050.7119140625 13812.58203125,9041.9814453125 13809.671875,9041.9814453125\"></polygon></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "42746bc0-2983-4d27-a3bd-2a7209159169.json"
+}
