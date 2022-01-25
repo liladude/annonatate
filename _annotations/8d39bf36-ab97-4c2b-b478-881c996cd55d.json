@@ -1,0 +1,40 @@
+---
+canvas: "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json"
+order: 7
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Colonna del leone",
+            "purpose": "bookmarking",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-01-25T08:29:54.568Z",
+            "modified": "2022-01-25T08:30:03.104Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "work",
+            "purpose": "tagging",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-01-25T08:30:06.825Z",
+            "modified": "2022-01-25T08:30:07.599Z"
+        }
+    ],
+    "target": {
+        "source": "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"14132.7236328125,9859.7978515625 14164.73828125,9883.0810546875 14228.7666015625,9877.2607421875 14240.408203125,9862.7080078125 14214.21484375,9833.6044921875 14199.662109375,9551.2978515625 14220.03515625,9513.462890625 14217.125,9487.26953125 14170.55859375,9487.26953125 14153.0966796875,9525.1044921875 14167.6484375,9545.4765625 14170.55859375,9827.7841796875 14150.1865234375,9842.3359375 14150.1865234375,9827.7841796875 14132.7236328125,9842.3359375\"></polygon></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8d39bf36-ab97-4c2b-b478-881c996cd55d.json"
+}
