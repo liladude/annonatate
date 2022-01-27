@@ -8,10 +8,20 @@
             "board": "<iiif-storyboard annotationurl='https://liladude.github.io/annonatate/annotations/dlib2-biblhertz-it-3-be34303760-p0123-list.json'></iiif-storyboard>",
             "title": "Prova",
             "description": "Vista",
-            "thumbnail": ""
+            "thumbnail": "",
+            "url": "https://liladude.github.io/annonatate/annotations/dlib2-biblhertz-it-3-be34303760-p0123-list.json",
+            "viewtype": "iiif-storyboard"
         },
         {
             "board": "<iiif-storyboard annotationurl='https://liladude.github.io/annonatate/annotations/dlib2-biblhertz-it-3-be34303760-p0127-list.json'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": "",
+            "url": "https://liladude.github.io/annonatate/annotations/dlib2-biblhertz-it-3-be34303760-p0127-list.json",
+            "viewtype": "iiif-storyboard"
+        },
+        {
+            "board": "<iiif-storyboard annotationurl='https://liladude.github.io/annonatate/annotations/dlib2-biblhertz-it-3-be34303760-p0137-list.json'></iiif-storyboard>",
             "title": "",
             "description": "",
             "thumbnail": ""
