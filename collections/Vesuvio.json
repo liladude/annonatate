@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Vesuvio",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://liladude.github.io/annonatate/annotations/dlib2-biblhertz-it-3-be34303760-p0123-list.json'></iiif-storyboard>",
+            "title": "Prova",
+            "description": "Vista",
+            "thumbnail": ""
+        }
+    ]
+}
