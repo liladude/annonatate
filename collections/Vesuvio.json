@@ -9,6 +9,12 @@
             "title": "Prova",
             "description": "Vista",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard annotationurl='https://liladude.github.io/annonatate/annotations/dlib2-biblhertz-it-3-be34303760-p0127-list.json'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
