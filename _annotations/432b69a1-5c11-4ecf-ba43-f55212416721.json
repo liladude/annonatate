@@ -1,0 +1,44 @@
+---
+canvas: "https://dlib2.biblhertz.it/iiif/3/be40154231/canvas/p0002"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "bollino Raro",
+            "purpose": "commenting",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-01-27T14:37:46.192Z",
+            "modified": "2022-01-27T14:37:50.777Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "timbro",
+            "purpose": "tagging",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-01-27T14:37:56.452Z",
+            "modified": "2022-01-27T14:37:57.778Z"
+        }
+    ],
+    "target": {
+        "source": "https://dlib2.biblhertz.it/iiif/3/be40154231/canvas/p0002",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"1804.7655639648438\" cy=\"1531.4885864257812\" rx=\"276.68194580078125\" ry=\"209.52618408203125\"></ellipse></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dlib.biblhertz.it/iiif/be40154231/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "432b69a1-5c11-4ecf-ba43-f55212416721.json"
+}
