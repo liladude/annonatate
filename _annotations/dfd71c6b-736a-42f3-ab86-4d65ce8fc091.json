@@ -1,0 +1,34 @@
+---
+canvas: "https://dlib2.biblhertz.it/iiif/3/bhmpid10246/canvas/p0001"
+order: 4
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Stemma Borghese",
+            "purpose": "commenting",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-02-17T15:53:32.913Z",
+            "modified": "2022-02-17T15:53:36.806Z"
+        }
+    ],
+    "target": {
+        "source": "https://dlib2.biblhertz.it/iiif/3/bhmpid10246/canvas/p0001",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"5978.90380859375\" cy=\"6278.16845703125\" rx=\"232.85986328125\" ry=\"260.9716796875\"></ellipse></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dlib.biblhertz.it/iiif/bhmpid10246/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "dfd71c6b-736a-42f3-ab86-4d65ce8fc091.json",
+    "motivation": "commenting"
+}
