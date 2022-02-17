@@ -1,0 +1,34 @@
+---
+canvas: "https://dlib2.biblhertz.it/iiif/3/bhmpid10246/canvas/p0001"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Candor Ill(a)esus",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-02-17T15:44:15.702Z",
+            "modified": "2022-02-17T15:44:38.372Z"
+        }
+    ],
+    "target": {
+        "source": "https://dlib2.biblhertz.it/iiif/3/bhmpid10246/canvas/p0001",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"8065.063232421875\" cy=\"9521.97314453125\" rx=\"472.754150390625\" ry=\"622.56591796875\"></ellipse></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dlib.biblhertz.it/iiif/bhmpid10246/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "55cc8aae-5698-4d65-b6af-a0439d6389cf.json",
+    "motivation": "commenting"
+}
