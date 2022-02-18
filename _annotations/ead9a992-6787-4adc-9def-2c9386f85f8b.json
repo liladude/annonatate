@@ -1,0 +1,35 @@
+---
+canvas: "https://dlib2.biblhertz.it/iiif/3/be32153880/canvas/p0005"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "M\u00e8moire sur les iles Ponces et catalogue raisonn\u00e9 des produits de l'Etna; pour server \u00e0 l'historie des volcanza",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-02-18T13:50:25.407Z",
+            "modified": "2022-02-18T13:51:31.488Z"
+        }
+    ],
+    "target": {
+        "source": "https://dlib2.biblhertz.it/iiif/3/be32153880/canvas/p0005",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=196.62567138671875,434.336669921875,2228.1130981445312,1548.6610107421875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dlib.biblhertz.it/iiif/be32153880/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ead9a992-6787-4adc-9def-2c9386f85f8b.json",
+    "motivation": "commenting"
+}
