@@ -1,0 +1,35 @@
+---
+canvas: "https://dlib2.biblhertz.it/iiif/3/be32153880/canvas/p0039"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Immagine sopra il titolo",
+            "purpose": "commenting",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-02-18T13:54:43.948Z",
+            "modified": "2022-02-18T13:54:48.068Z"
+        }
+    ],
+    "target": {
+        "source": "https://dlib2.biblhertz.it/iiif/3/be32153880/canvas/p0039",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=55.8121223449707,547.62060546875,2024.9305534362793,689.5709228515625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dlib.biblhertz.it/iiif/be32153880/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f1e59330-6b3f-4d39-b2de-25165bcb39a8.json",
+    "motivation": "commenting"
+}
