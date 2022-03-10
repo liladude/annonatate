@@ -1,0 +1,35 @@
+---
+canvas: "https://bvmm.irht.cnrs.fr/iiif/17008/canvas/canvas-1420798"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Roma",
+            "purpose": "commenting",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-03-10T18:26:47.596Z",
+            "modified": "2022-03-10T18:26:48.193Z"
+        }
+    ],
+    "target": {
+        "source": "https://bvmm.irht.cnrs.fr/iiif/17008/canvas/canvas-1420798",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=5557.5927734375,2320.92333984375,232.2724609375,264.0908203125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://bvmm.irht.cnrs.fr/iiif/17008/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ddb31693-cdc1-41e3-8cd8-78730bad0801.json",
+    "motivation": "commenting"
+}
