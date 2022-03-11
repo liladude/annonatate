@@ -1,0 +1,35 @@
+---
+canvas: "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10108329p/canvas/f1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Roma",
+            "purpose": "commenting",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-03-11T11:40:09.167Z",
+            "modified": "2022-03-11T11:40:09.838Z"
+        }
+    ],
+    "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10108329p/canvas/f1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=9893.92578125,3593.005615234375,318.181640625,416.36376953125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10108329p/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3c152886-720a-4a6b-80f9-709619f1db2d.json",
+    "motivation": "commenting"
+}
