@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Guckelsberger",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://liladude.github.io/annonatate/annotations/17008-canvas-1420798-list.json' styling='startposition: 1;'></iiif-storyboard>",
+            "title": "Detail of Rome",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
