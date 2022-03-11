@@ -1,0 +1,35 @@
+---
+canvas: "https://bvmm.irht.cnrs.fr/iiif/17008/canvas/canvas-1420798"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "S/bartolomeo",
+            "purpose": "commenting",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-03-11T10:17:23.793Z",
+            "modified": "2022-03-11T10:17:29.826Z"
+        }
+    ],
+    "target": {
+        "source": "https://bvmm.irht.cnrs.fr/iiif/17008/canvas/canvas-1420798",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=826.0115356445312,924.9252319335938,164.54541015625,73.6363525390625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://bvmm.irht.cnrs.fr/iiif/17008/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6baa543b-d0f2-4f33-91f1-e4ee85574a17.json",
+    "motivation": "commenting"
+}
