@@ -1,0 +1,35 @@
+---
+canvas: "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10108329p/canvas/f1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Arezo",
+            "purpose": "commenting",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-03-11T11:40:30.372Z",
+            "modified": "2022-03-11T11:40:31.980Z"
+        }
+    ],
+    "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10108329p/canvas/f1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=7529.54638671875,3465.203125,181.818359375,242.72705078125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10108329p/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0218b7bf-d0a3-43fb-af30-bf5ad2bcd144.json",
+    "motivation": "commenting"
+}
