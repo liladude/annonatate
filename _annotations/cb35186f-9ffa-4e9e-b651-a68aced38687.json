@@ -1,0 +1,35 @@
+---
+canvas: "https://bvmm.irht.cnrs.fr/iiif/17008/canvas/canvas-1420798"
+order: 5
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Fiume olio",
+            "purpose": "commenting",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-03-11T10:17:57.325Z",
+            "modified": "2022-03-11T10:18:05.372Z"
+        }
+    ],
+    "target": {
+        "source": "https://bvmm.irht.cnrs.fr/iiif/17008/canvas/canvas-1420798",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=836.0115356445312,1033.1070556640625,58.1817626953125,73.6363525390625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://bvmm.irht.cnrs.fr/iiif/17008/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cb35186f-9ffa-4e9e-b651-a68aced38687.json",
+    "motivation": "commenting"
+}
