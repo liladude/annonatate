@@ -1,0 +1,18 @@
+---
+canvas: "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"116.69929122924805\" cy=\"301.19915771484375\" rx=\"17.639041900634766\" ry=\"18.394989013671875\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "866ff017-dd32-4256-8df1-344fec90d058.json",
+    "motivation": "commenting"
+}
