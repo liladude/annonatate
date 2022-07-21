@@ -1,0 +1,51 @@
+---
+canvas: "https://zas.bn.org.pl/iiif/7456386/7456040.tif/info.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.93669128417969,
+                    44.40631625266138
+                ]
+            },
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-07-21T18:06:29.868Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Detail",
+            "purpose": "commenting",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-07-21T18:06:39.051Z",
+            "modified": "2022-07-21T18:06:40.711Z"
+        }
+    ],
+    "target": {
+        "source": "https://zas.bn.org.pl/iiif/7456386/7456040.tif/info.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=991.04052734375,1466.4918212890625,978.1817626953125,669.9998779296875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://polona.pl/iiif/item/NzQ1NjM4Ng/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "92e77770-2b9e-4cd7-98a0-780224e2e146.json",
+    "motivation": "commenting"
+}
