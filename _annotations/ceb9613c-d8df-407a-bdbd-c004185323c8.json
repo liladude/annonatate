@@ -1,0 +1,35 @@
+---
+canvas: "https://dlib2.biblhertz.it/iiif/2/rr5400930@0031-canvas"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Sfere celesti",
+            "purpose": "commenting",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-09-16T07:20:14.757Z",
+            "modified": "2022-09-16T07:20:33.205Z"
+        }
+    ],
+    "target": {
+        "source": "https://dlib2.biblhertz.it/iiif/2/rr5400930@0031-canvas",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=294.77325439453125,3046.841796875,3616.7440795898438,3579.68701171875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dlib.biblhertz.it/iiif/rr5400930/manifest2.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ceb9613c-d8df-407a-bdbd-c004185323c8.json",
+    "motivation": "commenting"
+}
