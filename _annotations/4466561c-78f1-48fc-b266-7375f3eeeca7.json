@@ -1,0 +1,46 @@
+---
+canvas: "https://dlib2.biblhertz.it/iiif/3/dg450820/canvas/p0011"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Drop_capital",
+            "purpose": "tagging",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-10-20T09:40:41.256Z",
+            "modified": "2022-10-20T09:40:44.386Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "V (Handwritten)",
+            "purpose": "commenting",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-10-20T09:40:47.349Z",
+            "modified": "2022-10-20T09:40:56.801Z"
+        }
+    ],
+    "target": {
+        "source": "https://dlib2.biblhertz.it/iiif/3/dg450820/canvas/p0011",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=435.50714111328125,1042.4957275390625,672.7435913085938,760.046142578125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dlib.biblhertz.it/iiif/dg450820/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4466561c-78f1-48fc-b266-7375f3eeeca7.json",
+    "motivation": "commenting"
+}
