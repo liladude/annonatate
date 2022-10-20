@@ -1,0 +1,40 @@
+---
+canvas: "https://dlib2.biblhertz.it/iiif/3/dg450820/canvas/p0009"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.578857421875002,
+                    48.36354888898689
+                ]
+            },
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2022-10-20T12:59:24.042Z"
+        }
+    ],
+    "target": {
+        "source": "https://dlib2.biblhertz.it/iiif/3/dg450820/canvas/p0009",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1598.9910888671875,2260.351318359375,882.0191650390625,170.16455078125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dlib.biblhertz.it/iiif/dg450820/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a265fed0-19ed-4cb5-b5de-1c12f32f8f8c.json",
+    "motivation": "commenting"
+}
