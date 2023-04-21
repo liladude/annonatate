@@ -1,0 +1,9 @@
+---
+canvas_id: "https://edl-jarvis.cultura.gov.it/meta/iiif/f1f1468d-d03f-4e2b-ae39-799be7e5c02e/canvas/e9f94e19-730e-4f27-b27a-7ddfe7e6317f"
+---
+{% assign annotations = site.annotations | where: "canvas", page.canvas_id | sort: "order" | map: "content" %}
+{
+"@context": "http://iiif.io/api/presentation/3/context.json",
+"id": "{{ site.url }}{{ site.baseurl }}{{page.url}}",
+"type": "AnnotationPage",
+"items": [{{ annotations | join: ","}}] }
