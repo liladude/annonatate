@@ -1,0 +1,34 @@
+---
+canvas: "https://edl-jarvis.cultura.gov.it/meta/iiif/f1f1468d-d03f-4e2b-ae39-799be7e5c02e/canvas/e9f94e19-730e-4f27-b27a-7ddfe7e6317f"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "1466 - Italia left",
+            "purpose": "commenting",
+            "creator": {
+                "id": "liladude",
+                "name": "Elisa Bastianello"
+            },
+            "created": "2023-04-21T16:29:35.909Z",
+            "modified": "2023-04-21T16:29:45.244Z"
+        }
+    ],
+    "target": {
+        "source": "https://edl-jarvis.cultura.gov.it/meta/iiif/f1f1468d-d03f-4e2b-ae39-799be7e5c02e/canvas/e9f94e19-730e-4f27-b27a-7ddfe7e6317f",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1100.5921630859375,696.2540283203125 4089.581298828125,711.9442749023438 4081.736083984375,4744.333984375 818.1679077148438,4705.1083984375 802.4777221679688,4705.1083984375\"></polygon></svg>"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://edl-jarvis.cultura.gov.it/meta/iiif/f1f1468d-d03f-4e2b-ae39-799be7e5c02e/manifest",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3d8107db-5473-4c11-b9ad-a2c1c06d804e.json",
+    "motivation": "commenting"
+}
