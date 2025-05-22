@@ -1,4 +1,12 @@
 images:
+- added: '2025-05-22 12:52:40.809388'
+  iiif: true
+  thumbnail: https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512289f/f15/full/full/0/native.jpg
+  title:
+  - fr:
+    - Pirro Ligorio
+  url: https://liladude.github.io/Manifest_server/pervisum.json
+  user: Elisa Bastianello
 - added: '2024-10-11 13:40:15.255801'
   iiif: false
   thumbnail: https://hertz-foto-os1.biblhertz.it/iiif/3/dpub%2Fhwgw_03%2FAbb_02.jp2/full/max/0/default.jpg
