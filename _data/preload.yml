@@ -1,4 +1,12 @@
 images:
+- added: '2025-05-22 12:53:33.497472'
+  iiif: true
+  thumbnail: https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512289f/f15/full/full/0/native.jpg
+  title:
+  - fr:
+    - Pirro Ligorio
+  url: https://pervisum.inha.fr/api/prv27e7074d-f7c7-43f7-8819-b174e708c31d/manifest-edition
+  user: Elisa Bastianello
 - added: '2025-05-22 12:52:40.809388'
   iiif: true
   thumbnail: https://gallica.bnf.fr/iiif/ark:/12148/btv1b52512289f/f15/full/full/0/native.jpg
